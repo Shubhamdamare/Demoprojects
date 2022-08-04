@@ -1,0 +1,30 @@
+h2
+{
+	color: black;
+	background-color: black;
+	font-size: 20px;
+	border: 10px solid white;
+	font-family: arial;
+	font-style: italic;
+	background-image: url("s2.jpg") ;	
+	padding-left: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-right: 100px;
+	margin: 100px;
+}
+
+article
+{
+	color: red;
+	background-color: black;
+	font-size: 15px;
+	border: 10px  dashed white;
+	font-family: arial;
+	font-style: italic;
+	background-image: url("s2.jpg");
+	text-align:justify; 
+	padding: 30px;
+
+ 
+}
